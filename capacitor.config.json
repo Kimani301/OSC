@@ -1,0 +1,6 @@
+{
+  "appId": "com.osembo.school",
+  "appName": "Osembo School",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}

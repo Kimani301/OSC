@@ -1,0 +1,1 @@
+/* replaced by Capacitor on Android */
